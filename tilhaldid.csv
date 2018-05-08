@@ -1,0 +1,16 @@
+#,Sentence,Gloss,Neg order,PosAdv order,Aux2 PosAdv order,Obj movt,Obj x PolAdv,Ptc x PolAdv ,Subj gend,Subj num,Obj case,Obj gend,Obj num,Nom obj agr,Dat subj agr,Acc obj agr,T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13,T14,T15,T16,T17,T18,T19,T20,T21,T22,T23
+57,Mær hevur ikki altíð dámað bókina,Me.DAT.SG has.3SG not always liked.PTCP book-DEF.ACC.F.SG,NEG-OBJ,NEG-ADV-OBJ,-,n,n,n,m/f,sg,acc,f,sg,-,-,-,5,4,4,5,1,2,4,5,5,4,2,1,5,2,1,4,5,5,5,5,5,2,5
+58,Mær hevur bókina ikki altíð dámað,Me.DAT.SG has.3SG book-DEF.ACC.F.SG not always liked.PTCP,OBJ-NEG,OBJ-NEG-ADV,-,y,y,n,m/f,sg,acc,f,sg,-,-,-,2,1,1,2,1,1,1,1,5,1,1,-,1,1,2,1,1,1,1,1,1,1,1
+59,Mær hevur ikki altíð dámað hana,Me.DAT.SG has.3SG not always liked.PTCP it.ACC.F.SG,NEG-OBJ,NEG-ADV-OBJ,-,n,n,n,m/f,sg,acc,f,sg,-,-,-,5,4,4,4,5,4,4,5,5,5,5,-,5,5,4,4,5,5,5,5,5,2,5
+60,Mær hevur hana ikki altíð dámað,Me.DAT.SG has.3SG it.ACC.F.SG not always liked.PTCP,OBJ-NEG,OBJ-NEG-ADV,-,y,y,n,m/f,sg,acc,f,sg,-,-,-,1,1,1,1,1,1,1,1,5,1,1,-,1,1,1,1,1,1,1,1,2,1,1
+61,Mær hevur ikki bókina altíð dámað,Me.DAT.SG has.3SG not book-DEF.ACC.F.SG always liked.PTCP,NEG-OBJ,NEG-OBJ-ADV,-,y,y,n,m/f,sg,acc,f,sg,-,-,-,1,2,1,1,1,1,1,1,5,1,1,-,1,1,2,1,1,1,1,1,1,1,1
+62,Teimum man bókina ikki altíð hava dámað,Them.DAT.M/F/N.PL might.3SG book-DEF.ACC.F.SG not always have.INF liked.PTCP,OBJ-NEG,OBJ-NEG-ADV,ADV-AUX,y,y,n,m/f/n,pl,acc,f,sg,-,-,-,5,1,4,5,1,1,1,1,5,1,1,-,2,2,2,4,2,4,4,5,1,2,3
+63,Teimum man ikki bókina hava altíð dámað,Them.DAT.M/F/N.PL might.3SG not book-DEF.ACC.F.SG have.INF always liked.PTCP,NEG-OBJ,NEG-OBJ-ADV,AUX-ADV,y,y,n,m/f/n,pl,acc,f,sg,-,-,-,1,2,1,2,1,1,1,1,5,1,1,-,1,5,2,1,1,2,1,1,1,2,1
+64,Teimum man ikki bókina altíð hava dámað,Them.DAT.M/F/N.PL might.3SG not book-DEF.ACC.F.SG always have.INF liked.PTCP,NEG-OBJ,NEG-OBJ-ADV,ADV-AUX,y,y,n,m/f/n,pl,acc,f,sg,-,-,-,4,1,2,4,1,1,1,1,3,1,1,-,1,1,2,2,1,1,2,5,1,2,1
+65,Teimum man ikki altíð hava bókina dámað,Them.DAT.M/F/N.PL might.3SG not always have.INF book-DEF.ACC.F.SG liked.PTCP,NEG-OBJ,NEG-ADV-OBJ,ADV-AUX,y,n,n,m/f/n,pl,acc,f,sg,-,-,-,2,1,4,2,1,1,1,2,-,1,1,-,1,2,1,1,2,1,4,1,1,2,5
+66,Mær dáma bátarnar,Me.DAT.SG like.PL boats-DEF.ACC.M.PL,-,-,-,-,-,-,m/f,sg,acc,m,pl,n,n,y,5,5,4,-,5,1,1,5,-,5,1,-,1,5,4,1,2,-,1,5,-,2,-
+67,Honum dáma bátarnir,Him.DAT.SG like.PL boats-DEF.NOM.M.PL,-,-,-,-,-,-,m,sg,nom,m,pl,y,n,n,1,5,1,-,1,1,1,1,-,1,1,-,1,5,1,4,2,-,1,1,-,2,1
+68,Okkum dáma bátarnar,Us.DAT.PL like.PL boats-DEF.ACC.M.PL,-,-,-,-,-,-,m/f,pl,acc,m,pl,n,y,y,5,5,4,-,5,1,4,5,-,5,2,5,5,2,-,1,5,-,1,5,5,2,1
+69,Tykkum dáma bátarnir,You.DAT.PL like.PL boats-DEF.NOM.M.PL,-,-,-,-,-,-,m/f,pl,nom,m,pl,y,y,n,1,5,2,-,1,1,1,5,4,2,2,-,1,5,4,-,5,1,1,1,-,2,5
+70,Okkum tørva bátarnir,Us.DAT.PL need.PL boats-DEF.NOM.M.PL,-,-,-,-,-,-,m/f,pl,nom,m,pl,y,y,n,1,5,2,-,1,2,1,5,4,2,2,2,1,5,2,4,2,1,1,1,2,2,1
+71,Teimum tørva bátarnar,Them.DAT.M/F/N.PL need.PL boats-DEF.ACC.M.PL,-,-,-,-,-,-,m/f/n,pl,acc,m,pl,n,y,y,5,3,4,-,5,2,4,5,4,5,2,5,2,-,1,1,5,5,1,5,5,4,5
